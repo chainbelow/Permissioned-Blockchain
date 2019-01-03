@@ -1,5 +1,6 @@
 # Hyperledger Fabric 1.3
 These notes are very crude. Please do not comment or ask questions on these.
+**Please note:** You may use the software (smart contracts etc) for personal usage or testing only. **You cannot use the software components commercially or otherwise without the written consent of Devb.com or Chainbelow.ORG** in the cloud or any development environment open to the public. Which implies, you cannot show the product(s) as proof-of-concept or proof-of-technology without **exclusive written consent** from Devb Inc or Chainbelow.org.
 
 ## Compose New version 0.20
 ### Destroy old docker
